@@ -36,5 +36,5 @@ export default function Item(props: Props){
                 </div>
             </div>
         </div>
-    )
+    );
 }
